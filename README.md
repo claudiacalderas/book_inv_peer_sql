@@ -15,7 +15,7 @@
 
 **Client**
 
-- [] AJAX call to GET our books (print to console)
+- [X] AJAX call to GET our books (print to console)
 - [] Append them to the DOM
 - [] Create our HTML form
 - [] AJAX call to POST the form data
@@ -29,3 +29,9 @@
 **Client**
 
 - [] Refresh our UI after a book is added
+
+
+INSERT (POST)
+SELECT (GET)
+UPDATE (PUT)
+DELETE (DELETE)
