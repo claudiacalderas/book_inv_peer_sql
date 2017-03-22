@@ -16,19 +16,22 @@
 **Client**
 
 - [X] AJAX call to GET our books (print to console)
-- [] Append them to the DOM
-- [] Create our HTML form
-- [] AJAX call to POST the form data
+- [X] Append them to the DOM
+- [X] Create our HTML form
+- [X] AJAX call to POST the form data
 
 **Server**
 
-- [] Set up our POST route in node and log data
-- [] Create our INSERT query in Postico
-- [] Use 'pg' to write the data to the database
+- [X] Set up our POST route in node and log data
+- [X] Create our INSERT query in Postico
+- [X] Use 'pg' to write the data to the database
 
 **Client**
 
 - [] Refresh our UI after a book is added
+
+**Client**
+- [] Remove Button
 
 
 INSERT (POST)
