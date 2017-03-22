@@ -4,7 +4,7 @@
 
 **Server**
 
-- [] Setup node
+- [] Setup node 'npm init'
 - [] Add modules (exprss, body-parser-pg,jquery)
 - [] Folder structure
 - [] setup initial route
