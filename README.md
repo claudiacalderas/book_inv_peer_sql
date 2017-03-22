@@ -4,14 +4,14 @@
 
 **Server**
 
-- [] Setup node 'npm init'
-- [] Add modules (exprss, body-parser-pg,jquery)
-- [] Folder structure
-- [] setup initial route
-- [] create database table Postico
-- [] Create our SELECT query Postico
-- [] Create our GET route
-- [] Add 'pg' to our GET route
+- [X] Setup node 'npm init'
+- [X] Add modules (exprss, body-parser-pg,jquery)
+- [X] Folder structure
+- [X] setup initial route
+- [X] create database table Postico
+- [X] Create our SELECT query Postico
+- [X] Create our GET route
+- [X] Add 'pg' to our GET route
 
 **Client**
 
